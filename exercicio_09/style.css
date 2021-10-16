@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+main{
+  background-image: url(https://media.istockphoto.com/photos/monochrome-light-textureold-grunge-wall-background-with-dirty-light-picture-id1138247794);
+}
+
+main h1{
+  font-family: 'festive';
+}
+
+article{
+  background-color: blanchedalmond;
+}
+
+article p{
+ color: blueviolet;
+ text-align: center;
+}

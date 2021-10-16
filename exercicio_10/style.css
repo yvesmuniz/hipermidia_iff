@@ -1,0 +1,20 @@
+.cssElementos{
+  text-decoration: none;
+  color:black;
+}
+
+.cssElementos:active{
+  color: darkgreen;
+}
+
+.cssElementos:visited{
+  color: maroon;
+}
+
+.cssElementos:hover{
+  background-color: yellow;
+}
+
+.cssElementos:selection{
+  color: blue;
+}
