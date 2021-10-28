@@ -1,0 +1,20 @@
+ul{
+  background: #dfd9d988;
+  padding: 15px;
+  width: 300px;
+}
+li:hover{
+  background-image:url(Sprite_g.jpg);
+}
+li {
+  display: inline;
+  margin: 5px;
+}
+ul li a {
+  color: black;
+  width: 80px;
+  text-decoration: auto;
+}
+
+
+
